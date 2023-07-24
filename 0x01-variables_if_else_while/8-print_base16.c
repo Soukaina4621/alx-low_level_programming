@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - Entry point
- * Description: prints all single digit numbers of base 10
+ * Description:  a program that prints all the numbers of base 16 in lowercase, followed by a new line.
  * starting from 0, followed by a new line.
  * Return: Always 0 (Success)
  */
